@@ -1,4 +1,4 @@
-# sna4slack [![Build Status](https://travis-ci.com/softeng-inf-uniba/progetto1718-allen.svg?token=4xMDs2RKjSkL7wTJkznJ&branch=master)](https://travis-ci.com/softeng-inf-uniba/progetto1718-allen) [![codecov](https://codecov.io/gh/softeng-inf-uniba/base1718/branch/master/graph/badge.svg?token=KwXhgTMYEj)](https://codecov.io/gh/softeng-inf-uniba/base1718)
+# sna4slack [![Build Status](https://travis-ci.com/softeng-inf-uniba/progetto1718-allen.svg?token=4xMDs2RKjSkL7wTJkznJ&branch=master)](https://travis-ci.com/softeng-inf-uniba/progetto1718-allen) [![Build Status](https://travis-ci.com/softeng-inf-uniba/progetto1718-allen.svg?token=Hd5GprdsQDp81mDMJyFR&branch=master)](https://travis-ci.com/softeng-inf-uniba/progetto1718-allen)
 La struttura della repository si presenta nel seguente modo:
 ```
 |–– config
@@ -19,7 +19,6 @@ La struttura della repository si presenta nel seguente modo:
 |–– Assegnazione progetto.md
 |–– Guida per lo studente.md
 |–– README.md
-|–– Workflow progetto.xml
 |–– gradlew
 |–– gradle.bat
 |–– settings.gradle
